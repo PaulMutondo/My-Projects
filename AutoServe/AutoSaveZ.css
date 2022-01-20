@@ -1,0 +1,50 @@
+h1{
+    color: rgb(190, 44, 209);
+    text-align: center;
+    font-size: 2cm;
+}
+
+h2{
+    color: indigo;
+}
+
+h3{
+    color: rgb(146, 87, 94);
+}
+body{
+    background:rgb(7, 21, 39);
+
+}
+h4{
+    color: rgb(114, 122, 75);
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
+ul{
+    color: rgba(255, 255, 255, 0.795);
+}
+label{
+    color: violet;
+}
+button{
+    background-color: rgb(48, 88, 11);
+    border: chartreuse;
+    font-size: 0.5cm;
+    color: rgb(255, 255, 255);
+}
+table{
+    color: white;
+}
+p1{
+    color: white;
+    font-size: 0.5cm;
+    font-weight: bold;
+}
+p2{
+    color: white;
+    font-size: 00.5cm;
+}
+a{
+    color: rgb(127, 158, 14);
+}
